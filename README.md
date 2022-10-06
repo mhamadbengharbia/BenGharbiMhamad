@@ -8,8 +8,6 @@
 I'm Mhamad Ben Gharbia, and i'm a Full-stack developer in c#,Python and MERN. I'm very passionate about the world of the web and i really enjoy learning languages and frameworks like React and C#, as well as work with WordPress and PrestaShop .
 
 
-<img src="https://c.tenor.com/UttC4AITYR4AAAAd/full-stack-developer.gif" width="100%" />
-
 ##Skills 
 <ul>
   <li>🖥️HTML5, CSS3, JavaScript, Python, C#, SQL, React</li>
@@ -18,6 +16,9 @@ I'm Mhamad Ben Gharbia, and i'm a Full-stack developer in c#,Python and MERN. I'
   <li>🔒MySQL, Oracle, MongoDB</li>
   <li>🧿 WordPress, PrestaShop</li>
 </ul>
+
+<img src="https://c.tenor.com/UttC4AITYR4AAAAd/full-stack-developer.gif" width="100%" />
+
  
 
 
