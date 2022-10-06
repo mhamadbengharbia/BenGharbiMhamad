@@ -3,9 +3,9 @@
 
 <img src="https://media-exp1.licdn.com/dms/image/C4D16AQHxhnV3KpyC5A/profile-displaybackgroundimage-shrink_350_1400/0/1663432548575?e=1670457600&v=beta&t=4QA7cUvXiQPF4r-Td1hNCCkbyztf4QyxwxN7Q_j_a7w" width="100%" />
 
-Mhamad Ben Gharbia
+##Who am I❓❔
 
-I'm Mhamad, and i'm a Full-stack developer in c#,Python and MERN. I'm very passionate about the world of the web and i really enjoy learning languages and frameworks like React and C#, as well as work with WordPress and PrestaShop .
+I'm Mhamad Ben Gharbia, and i'm a Full-stack developer in c#,Python and MERN. I'm very passionate about the world of the web and i really enjoy learning languages and frameworks like React and C#, as well as work with WordPress and PrestaShop .
 
 
 <img src="https://c.tenor.com/UttC4AITYR4AAAAd/full-stack-developer.gif" width="100%" />
